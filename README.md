@@ -28,7 +28,7 @@ The D line had a decrease of 89% ridership collectively.
 The biggest decrease in ridership was in SoHo, Manhattan and it's average median value was about 2.5 million.
 The smallest decrease in ridership was in Coney Island, Brooklyn and it's average median value was about 430 thousand.
 Manhattan had the largest difference in average weekly ridership.
-
+ 
 ### Tools
 ---
 - SQLAlchemy 
