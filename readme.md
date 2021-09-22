@@ -3,7 +3,7 @@
 Connie Xiao
 
 ---
-Exploring MTA Ridership
+**Exploring MTA Ridership**
 
 Abstract
 ---
@@ -11,8 +11,6 @@ Abstract
 A committee of legislatives wants to give back to New York City's community after the pandemic. New Yorkers went through a big hump during these difficult times and they wanted to create more jobs for communities that did not have the privilege to work from home. They were interested in D line locations where the residents were still going into work during the pandemic.
 To tackle this project, I used MTA turnstiles dataset to see which stations that had the least change in ridership activities. To explore more into the changes, I measured affluency by looking at each neighborhoods median property values. I wanted to see if more affluent neighborhoods had a more dramatic decrease in ridership levels compared to less affluent neighborhoods. I also wanted to explore the changes for each individual station.
 For this project, my goal was to see the impact of COVID-19 Pandemic on New York City's MTA ridership. The main chunk of this project will be exploring ridership levels pre-COVID and during COVID. I will also be taking New York City's neighborhood's property value status into consideration to see how it certain neighborhoods affected ridership levels. After cleaning my data, I wanted to see the connection between the ridership activities in with median property values. To do so, I built graphs and plots to analyze my findings.
-
-
 
 ### Data
 ---
