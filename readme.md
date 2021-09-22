@@ -31,9 +31,9 @@ Manhattan had the largest difference in average weekly ridership.
 
 ### Tools
 ---
-SqlAlchemy 
-Pandas 
-Matplotlib
-Seaborn
-Plotly 
-Geopandas 
+- SqlAlchemy 
+- Pandas 
+- Matplotlib
+- Seaborn
+- Plotly 
+- Geopandas 
