@@ -1,4 +1,4 @@
-## Exploring MTA Ridership and Median Property Value in New York City during COVID-19 Pandemic
+# Exploring MTA Ridership and Property Value in New York City during COVID-19 Pandemic
 
 Connie Xiao
 
